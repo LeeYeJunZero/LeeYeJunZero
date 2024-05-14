@@ -1,6 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![header](https://capsule-render.vercel.app/api?type=Cylinder&text=LeeYeJunZero)<br>
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=LeeYeJunZero)<br>
-
  
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
