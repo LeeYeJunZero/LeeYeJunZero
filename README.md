@@ -26,7 +26,9 @@
 <img src="https://img.shields.io/badge/unity-512BD4?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/unrealengine-00599C?style=for-the-badge&logo=unrealengine&logoColor=white">
-
+<br>
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
 
 
