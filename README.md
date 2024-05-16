@@ -6,9 +6,7 @@
   
  <br/>
  <br/>
-  
-####  :clipboard: technologies available
-<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/LeeYeJunZero" style="margin-right: 10px;">
     <img style="height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=LeeYeJunZero&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
   </a>
@@ -16,6 +14,9 @@
     <img style="height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYeJunZero&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
+<br>
+####  :clipboard: technologies available
+
  
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
