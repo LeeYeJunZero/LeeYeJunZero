@@ -8,7 +8,9 @@
  <br/>
   
 ####  :clipboard: technologies available
-  
+  <a href="https://github.com/LeeYeJunZero"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeYeJunZero&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+
+<a href="https://github.com/LeeYeJunZero"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYeJunZero&layout=compact&theme=nord&hide_border=true" /></a>
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
@@ -30,9 +32,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br>
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeYeJunZero&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-
-<a href="https://github.com/imysh578"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYeJunZero&layout=compact&theme=nord&hide_border=true" /></a> 
+ 
 
 
 ![header](https://capsule-render.vercel.app/api?type=Rect)
