@@ -44,8 +44,9 @@ http://118.176.157.105:8080
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br>
- 
 
+ ## My career
+#### from 2024.07.22~ 아미스테크놀로지
 
 ![header](https://capsule-render.vercel.app/api?type=Rect)
 </div>
