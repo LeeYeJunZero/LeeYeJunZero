@@ -7,7 +7,8 @@
 #### Local Server IP
 
 http://118.176.157.105:8080
-  
+https://rns71.github.io/html/test1.html
+
  <br/>
  <br/>
   <div style="display: flex; justify-content: center; align-items: center;">
