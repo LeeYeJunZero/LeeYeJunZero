@@ -46,8 +46,6 @@ https://rns71.github.io/html/test1.html
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br>
 
- ## My career
-#### from 2024.07.22~ 아미스테크놀로지
 
 ![header](https://capsule-render.vercel.app/api?type=Rect)
 </div>
