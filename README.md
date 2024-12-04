@@ -7,7 +7,7 @@
 #### Local Server IP
 
 http://118.176.157.105:8080<br>
-https://rns71.github.io/html/test1.html
+https://leeyejunzero.github.io/html/dynamicHTML.html
 
  <br/>
  <br/>
